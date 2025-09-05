@@ -12,7 +12,7 @@ main{
     align-items: center;
     justify-content: center;
     margin: 100px 100px;
-    background-color: rgb(107, 148, 148);
+    background-color: rgb(163, 204, 134);
    align-self: center;
     width: 90%;
     height: 600px;
@@ -66,4 +66,10 @@ button{
 button:hover{
     background-color: aqua;
     cursor: pointer;
+}
+a{
+    margin-top: 30px;
+    text-decoration: none;
+    color: red;
+    font-size: 16px;
 }
